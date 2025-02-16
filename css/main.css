@@ -265,8 +265,15 @@ body {
 }
 
 .inner-micro-link {
+  font-weight: 400;
+  font-size: 40px;
   color: #000;
 }
+
+/* .inner-micro-link a {
+  font-weight: 400;
+  font-size: 40px;
+} */
 
 .inner-micro-link a {
   color: #000;
